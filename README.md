@@ -4,10 +4,16 @@
 This project was used to showcase what I can do with data visualisation as an aid to my hobby of playing the battle facilities in the Pokémon games. Combining the skills I gained in a 
 Data skills bootcamp with my passion and love for things I love.
 
-# Content
+## Content
 A dive into Pokémon attribute data using Tableau Dashboard for Pokemon from Gen 1 to Gen 6.
-This repository contains the visual data and the data set downloaded from Kaggle for analysing specific questions that might come up when formualting an ideal team. Also included the presentation used
 
+This repository contains the visual data in the form of a dashboard and the data set downloaded from Kaggle and Tableau for analysing specific questions that might come up when formualting an ideal team. Also included the presentation used
+
+## Description
+* Looked at ways Excel can help search for entries in the data set using Index Match, IF, SUMIF/SUMIFS, SUMPRODUCT.
+* Connected The spreadsheet data from Tableau with the csv data from Kaggle to form charts that can display dynamically different criteria.
+* Presented my process in a 5 minute presentation slide
+  
 ## Usage
 
 To replicate the analysis or explore the visualizations further:
