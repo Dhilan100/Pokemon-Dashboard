@@ -8,6 +8,15 @@ Data skills bootcamp with my passion and love for things I love.
 A dive into Pokémon attribute data using Tableau Dashboard for Pokemon from Gen 1 to Gen 6
 This repository contains the visual data and the data set downloaded from Kaggle for analysing specific questions that might come up when formualting an ideal team. Also included the presentation used
 
+## Usage
+
+To replicate the analysis or explore the visualizations further:
+
+1. Download or clone this repository.
+2. View Assignment file to see instructions.
+3. Open the Excel files to view the data analysis in Excel.
+4. Open the Tableau workbook in Tableau Public.
+
 
 ## Tableau Dashboard
 
