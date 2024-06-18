@@ -13,15 +13,24 @@ This repository contains the visual data in the form of a dashboard and the data
 * Looked at ways Excel can help search for entries in the data set using Index Match, IF, SUMIF/SUMIFS, SUMPRODUCT.
 * Connected The spreadsheet data from Tableau with the csv data from Kaggle to form charts that can display dynamically different criteria.
 * Presented my process in a 5 minute presentation slide
+
+  ## Files and Folders
+
+- `Pokemon.csv`: Cleaned data set.
+- `pokemon.xlsx`: Cleaned data set.
+- `Pokemon Excel.xlsx`: Contains Excel functions for data analysis
+- `Presentation1.pptx`: Presentation file used to present my findings.
+- `Pokemon Stats from Gen 1 to Gen 6.twbx`: Tableau workbook dashboard and visual with relationship formed between the two sets of data
   
 ## Usage
 
 To replicate the analysis or explore the visualizations further:
 
 1. Download or clone this repository.
-2. View Assignment file to see instructions.
-3. Open the Excel files to view the data analysis in Excel.
-4. Open the Tableau workbook in Tableau Public.
+2. Open Excel file `Pokemon Excel.xlsx` to see Excel function analytics
+3. Open the Tableau workbook in Tableau Public to view process.
+4. Optional open cleaned data sets in Tableau to create dashboard.
+5. Optional view Presentation file.
 
 
 ## Tableau Dashboard
